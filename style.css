@@ -1,0 +1,9 @@
+body {
+	background-color: #D99191;
+}
+
+.wrapper {
+	display: block;
+	width: 80%;
+	margin: 100px auto 0;
+}
