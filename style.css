@@ -6,4 +6,67 @@ body {
 	display: block;
 	width: 80%;
 	margin: 100px auto 0;
+	-webkit-box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92);
+   -moz-box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92);
+   box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92)
 }
+
+header { 
+	background-color: #FFF;
+	padding: 1.1rem 3rem;
+}
+
+header a {
+	color: #E70000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.container {
+	background-color: #E70000;
+	padding: 30px 115px;\
+
+}
+
+.container h1 {
+	margin: 0;
+	font-size: 35px;
+}
+
+.container .contenido {
+	float: left;
+	width: 50%;
+	margin-top: 6rem;
+	font-size: 20px;
+}
+
+.container figure {
+	float: right;
+	margin: 0;
+}
+
+footer ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer ul li {
+	display: inline-block;
+	width: 25%;
+	background-color: #571212;
+	color: #E98A8A;
+	padding: 43.1px;
+	margin: 0;
+}
+
+.letra-blanca {
+	color: #FFF;
+}
+
+.clearfix {
+	clear: both;
+}
+
+
+
